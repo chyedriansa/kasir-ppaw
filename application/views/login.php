@@ -9,12 +9,12 @@
   <?php $this->load->view('partials/head'); ?>
 </head>
 <body class="hold-transition login-page">
-
+<body style='background-color:bright'>
   <div class="login-box">
-    <div class="login-logo">Login</div>
+    <div class="login-logo">Silahkan Masukan Username dan Password</div>
     <div class="card">
       <div class="card-body login-card-body">
-        <p class="login-box-msg">Login untuk masuk</p>
+        <h5 class="login-box-msg"><b>PT. Berkah Perkasa</b></h5>
         <div class="alert alert-danger d-none"></div>
         <form>
           <div class="input-group mb-3">
